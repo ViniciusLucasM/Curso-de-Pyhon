@@ -1,6 +1,0 @@
-n = input('Insert something: ')
-print(type(n))
-print('Is the content of this variable is lowercase?', n.islower())
-print('Is the content of this variable is a number?', n.isnumeric())
-print('Is the content of this variable is a latter?', n.isalpha())
-print('Is the content of this variable is a number and a latter?', n.isalnum())
