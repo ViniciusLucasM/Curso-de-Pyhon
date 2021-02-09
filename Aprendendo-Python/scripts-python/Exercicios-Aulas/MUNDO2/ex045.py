@@ -24,4 +24,5 @@ elif jog == 'PEDRA' and esco == 'PAPEL':
     print('VOCÊ PERDEU E EU GANHEI')
     print('EU FIZ {} E VOCÊ FEZ {}'.format(esco, jog))
 else:
-    print('VOCÊ COLOCOU UMA OPÇÃO INVALIDA. VERIFIQUE A ESCRITA E TENTE NOVAMENTE.')
+    print('VOCÊ COLOCOU UMA OPÇÃO INVALIDA. VERIFIQUE A ESCRITA E TENTE'
+          ' NOVAMENTE.')
